@@ -47,7 +47,7 @@ class Calculator:
 
     def solve(self):
         try:
-            result = eval(self.entry_value.replace('x', '*'))  # Replace 'x' with '*' for multiplication
+            result = eval(self.entry_value.replace('x', '*')) 
             self.equation.set(result)
         except Exception as e:
             self.equation.set("Error")
