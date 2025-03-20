@@ -1,8 +1,8 @@
 # calculator made by sharif
-first we import tkinter
-we config and gemetory the size of box
-label a box to show result
-make button and place it according to size
+first we import tkinter  
+we config and gemetory the size of box  
+label a box to show result   
+make button and place it according to size 
 copy for all button
 mmake function for button to fatch button  usihg lambda function
 make function for clear button 
